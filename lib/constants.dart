@@ -9,7 +9,7 @@ const basicTextStyle = TextStyle(
 );
 
 const numberTextStyle = TextStyle(
-  fontSize: 65,
+  fontSize: 64,
   fontWeight: FontWeight.w900,
 );
 
